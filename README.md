@@ -11,5 +11,3 @@ The repository is still private. This link is the live deployment until the sour
 ## Other live demos
 
 - [iPhone showcase](https://iphone-showcase-three.vercel.app) is a product page.
-- [Car listings](https://car-listings-one.vercel.app) is a typed listing UI.
-- [Crypto dashboard](https://cryptodashboard-rho.vercel.app) is a market dashboard.
