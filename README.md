@@ -1,16 +1,15 @@
-## Hi there 👋
+# Rohit Singh
 
-<!--
-**rohits2501/rohits2501** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Frontend engineer. I build operator consoles for long-running work: live job status, review over a large document, and the reliability around that loop.
 
-Here are some ideas to get you started:
+## Read this first
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[Document Intelligence Console](https://ai-document-intelligence-console.vercel.app) is the running app. An operator drops a document, a job processes it, and the page streams status from an append-only event log. Extracted fields are reviewed on a virtualized viewer. The default extractor is a mock, and the app says so.
+
+The repository is still private. This link is the live deployment until the source is public.
+
+## Other live demos
+
+- [iPhone showcase](https://iphone-showcase-three.vercel.app) is a product page.
+- [Car listings](https://car-listings-one.vercel.app) is a typed listing UI.
+- [Crypto dashboard](https://cryptodashboard-rho.vercel.app) is a market dashboard.
