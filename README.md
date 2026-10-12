@@ -10,4 +10,9 @@ The repository is still private. This link is the live deployment until the sour
 
 ## Other live demos
 - [Document Intelligence Console](https://ai-document-intelligence-console.vercel.app)
+
+- [Automated content publishing blog](https://op-scout-five.vercel.app/)
+
+- [Text to audio/ Script to audio OTT generatore](https://audioforge-chi.vercel.app/)
+
 - [iPhone showcase](https://iphone-showcase-three.vercel.app) is a product page.
