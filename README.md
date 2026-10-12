@@ -9,5 +9,5 @@ Frontend engineer. I build operator consoles for long-running work: live job sta
 The repository is still private. This link is the live deployment until the source is public.
 
 ## Other live demos
-
+- [Document Intelligence Console](https://ai-document-intelligence-console.vercel.app)
 - [iPhone showcase](https://iphone-showcase-three.vercel.app) is a product page.
