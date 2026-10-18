@@ -1,17 +1,15 @@
 # Rohit Singh
 
-Full Stack Engineer. I build operator consoles for long-running work: live job status, review over a large document, and the reliability around that loop.
+Full Stack Engineer building operator consoles for long-running work: live job status, review across large documents, and the reliability around that workflow.
 
-## Read this first
+## Featured project
 
-[Document Intelligence Console](https://ai-document-intelligence-console.vercel.app) is the running app. An operator drops a document, a job processes it, and the page streams status from an append-only event log. Extracted fields are reviewed on a virtualized viewer. The default extractor is a mock, and the app says so.
+### [Document Intelligence Console](https://ai-document-intelligence-console.vercel.app)
 
+A document processing app where operators upload a file, follow job progress streamed from an append-only event log, and review extracted fields in a virtualized viewer. The default extractor is a mock, clearly identified in the app.
 
-## Other live demos
-- [Document Intelligence Console](https://ai-document-intelligence-console.vercel.app)
+## Other projects
 
 - [Automated content publishing blog](https://op-scout-five.vercel.app/)
-
-- [Text to audio/ Script to audio OTT generatore](https://audioforge-chi.vercel.app/)
-
-- [iPhone showcase](https://iphone-showcase-three.vercel.app) is a product page.
+- [Text to audio / Script to audio OTT generator](https://audioforge-chi.vercel.app/)
+- [iPhone showcase](https://iphone-showcase-three.vercel.app) — a product page.
