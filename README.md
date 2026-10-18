@@ -10,7 +10,6 @@ A document processing app where operators upload a file, follow job progress str
 
 ## Other projects
 
-- [Automated content publishing blog](https://op-scout-five.vercel.app/)
-- [Text to audio / Script to audio OTT generator](https://audioforge-chi.vercel.app/)
+- [Text to audio / Script to audio OTT generator](https://op-scout-five.vercel.app/)
 - [iPhone showcase](https://iphone-showcase-three.vercel.app) — a product page.
 - [Bol](https://bol-ashy.vercel.app/) — Hindi, Hinglish, and English dictation.
