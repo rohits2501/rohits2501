@@ -1,6 +1,6 @@
 # Rohit Singh
 
-Full Stack Engineer building operator consoles for long-running work: live job status, review across large documents, and the reliability around that workflow.
+Staff Frontend Engineer (Web and Mobile)
 
 ## Featured project
 
