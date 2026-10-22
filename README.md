@@ -11,12 +11,15 @@ Merged this month:
 
 In review:
 
+- [Base UI](https://github.com/mui/base-ui/pull/6072) — Shift+Tab stays inside an open context menu.
 - [Material UI](https://github.com/mui/material-ui/pull/49524) — the same assessment for FormControlLabel.
 - [Material UI](https://github.com/mui/material-ui/pull/49526) — a shared axe file counts only that component’s demos.
 - [Radix Primitives](https://github.com/radix-ui/primitives/pull/4243) — the select trigger id reaches the native select, so a label and native required checks work.
 - [shadcn/ui](https://github.com/shadcn-ui/ui/pull/12356) — keyboard focus stays visible on invalid controls.
 
 ## Projects
+
+Pull requests on these repos comment with the bundle delta against main. House also reports catalog bench times, and the console reports how many times a fixture mounts. The gzip ceiling still fails the build.
 
 ### [House](https://github.com/rohits2501/design-system)
 
