@@ -1,15 +1,35 @@
 # Rohit Singh
 
-Staff Frontend Engineer (Web and Mobile)
+Staff frontend engineer. I build accessible web and mobile interfaces, and I contribute to the component libraries those interfaces sit on.
 
-## Featured project
+## Open source
 
-### [Document Intelligence Console](https://ai-document-intelligence-console.vercel.app)
+Merged this month:
 
-A document processing app where operators upload a file, follow job progress streamed from an append-only event log, and review extracted fields in a virtualized viewer. The default extractor is a mock, clearly identified in the app.
+- [Base UI](https://github.com/mui/base-ui/pull/6022) — a disabled radio group leaves the tab order.
+- [Material UI](https://github.com/mui/material-ui/pull/49504) — WCAG 2.2 assessment and axe tests for CircularProgress.
 
-## Other projects
+In review:
 
-- [Text to audio / Script to audio OTT generator](https://op-scout-five.vercel.app/)
-- [iPhone showcase](https://iphone-showcase-three.vercel.app) — a product page.
-- [Bol](https://bol-ashy.vercel.app/) — Hindi, Hinglish, and English dictation.
+- [Material UI](https://github.com/mui/material-ui/pull/49524) — the same assessment for FormControlLabel.
+- [Material UI](https://github.com/mui/material-ui/pull/49526) — a shared axe file counts only that component’s demos.
+- [Radix Primitives](https://github.com/radix-ui/primitives/pull/4243) — the select trigger id reaches the native select, so a label and native required checks work.
+- [shadcn/ui](https://github.com/shadcn-ui/ui/pull/12356) — keyboard focus stays visible on invalid controls.
+
+## Projects
+
+### [House](https://github.com/rohits2501/design-system)
+
+One visual language for the apps below: semantic tokens, light, dark, and high contrast, theme presets, and a small set of React primitives. A check fails the build when a second palette appears.
+
+### [Document Intelligence Console](https://github.com/rohits2501/ai-document-intelligence-console)
+
+Operators upload a file, follow job progress streamed from an append-only event log, and review extracted fields in a virtualized viewer. The default extractor is a mock, and the app says so. [Live](https://ai-document-intelligence-console.vercel.app).
+
+### [AudioForge](https://github.com/rohits2501/audioforge)
+
+Upload a script and get a multi-character audio episode. [Live](https://op-scout-five.vercel.app/).
+
+### [Bol](https://github.com/rohits2501/bol)
+
+Hindi, Hinglish, and English dictation. The speech key stays on the server. [Live](https://bol-ashy.vercel.app/).
