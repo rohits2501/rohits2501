@@ -8,12 +8,12 @@ Merged this month:
 
 - [Base UI](https://github.com/mui/base-ui/pull/6022) — a disabled radio group leaves the tab order.
 - [Material UI](https://github.com/mui/material-ui/pull/49504) — WCAG 2.2 assessment and axe tests for CircularProgress.
+- [Material UI](https://github.com/mui/material-ui/pull/49526) — a shared axe file counts only that component’s demos.
 
 In review:
 
 - [Base UI](https://github.com/mui/base-ui/pull/6072) — Shift+Tab stays inside an open context menu.
 - [Material UI](https://github.com/mui/material-ui/pull/49524) — the same assessment for FormControlLabel.
-- [Material UI](https://github.com/mui/material-ui/pull/49526) — a shared axe file counts only that component’s demos.
 - [Radix Primitives](https://github.com/radix-ui/primitives/pull/4243) — the select trigger id reaches the native select, so a label and native required checks work.
 - [shadcn/ui](https://github.com/shadcn-ui/ui/pull/12356) — keyboard focus stays visible on invalid controls.
 
