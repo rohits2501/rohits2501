@@ -12,6 +12,7 @@ Merged this month:
 
 In review:
 
+- [Elastic EUI](https://github.com/elastic/eui/pull/10240) — CallOut and Banner announce the visible text on mount, without copying those nodes into the live region.
 - [Base UI](https://github.com/mui/base-ui/pull/6072) — Shift+Tab stays inside an open context menu.
 - [Material UI](https://github.com/mui/material-ui/pull/49524) — the same assessment for FormControlLabel.
 - [Radix Primitives](https://github.com/radix-ui/primitives/pull/4243) — the select trigger id reaches the native select, so a label and native required checks work.
